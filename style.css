@@ -1,0 +1,60 @@
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 16px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  color: #861388;
+  font-weight: lighter;
+  font-size: 16px;
+}
+h2 {
+  font-family: Courier;
+  color: #2D93AD;
+  font-weight: bold;
+  font-size: 16px;
+}
+a {
+  color:#735D78;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: EB5160;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: pink;
+  font-size: 50px;
+}
+#banner p {
+  color: pink;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: pink;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+  margin-bottom: 5px;
+
+#banner h1{ color: white; 
+  opacity: 0.8;
+font-size: 50px;}
+}
+ 
